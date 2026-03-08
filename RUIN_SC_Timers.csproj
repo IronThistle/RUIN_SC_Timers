@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AssemblyName>RUIN_SC_Timers</AssemblyName>
+		<RootNamespace>RUIN_SC_Timers.App</RootNamespace>
+		<PackageId>RUIN SC Timers</PackageId>
+		<Description>Tactical countdown timers for SC Ruin.</Description>
+		<Company>IRN_THISTLE</Company>
+		<Copyright>Copyright © 2026</Copyright>
+		<PackageIcon></PackageIcon>
+		<ApplicationIcon>timer icon 1.ico</ApplicationIcon>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Content Include="timer icon 1.ico" />
+	</ItemGroup>
+</Project>
