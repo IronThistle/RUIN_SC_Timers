@@ -1,6 +1,6 @@
 # RUIN SC Timers ⏱️
 
-A lightweight, standalone Windows application designed for tracking Star Citizen (SC) timers. This tool helps you keep track of critical cooldowns and events without needing to tab out of your game.
+A lightweight, standalone Windows timer application designed for tracking SC RUIN Contested Zone timers. This tool helps you keep track of critical cooldowns without needing to tab out of your game. It has a transparency setting and always on top option.
 
 ## 🚀 How to Download & Run
 
