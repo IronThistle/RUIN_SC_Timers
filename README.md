@@ -1,6 +1,6 @@
 # RUIN SC Timers ⏱️
 
-A lightweight, standalone Windows timer application designed for tracking SC RUIN Contested Zone timers. This tool helps you keep track of critical cooldowns without needing to tab out of your game. It has a transparency setting and always on top option.
+A lightweight, standalone Windows timer application designed for tracking SC RUIN Contested Zone timers. This tool helps you keep track of critical cooldowns without needing to tab out of your game. It has a transparency setting and always on top option. Note! There is a possibility that the timers are not 100& acurate as sometimes the ingame timers themselves can go out of sync.
 
 ## 🚀 How to Download & Run
 
